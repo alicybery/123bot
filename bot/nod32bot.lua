@@ -518,7 +518,7 @@ ch: @Nod32team
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @nochannel
+channel: @ _ @
 
 G00D LUCK ^_^
 ]]
